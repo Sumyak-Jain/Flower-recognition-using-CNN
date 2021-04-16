@@ -1,1 +1,1 @@
-# Flower-recognition-using-CNN
+# Flower recognition using CNN
